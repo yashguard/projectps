@@ -1,4 +1,3 @@
-import './App.css';
 import Button from './Button';
 import React,{useState} from 'react';
 
